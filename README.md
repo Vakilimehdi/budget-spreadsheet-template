@@ -25,7 +25,7 @@ Microsoft Excel ،LibreOffice Calc و Google Sheets (فایل را در گوگل
 
 **۵ دلار** — نسخهٔ کامل را از فروشگاه بخرید:
 
-https://vakilimehdi.github.io/crypto-pay-page/
+https://digi-market-shop.netlify.app/
 
 1. مبلغ دقیق را با **USDC در شبکهٔ سولانا** به این کیف پول بفرستید: `HqxvhpdWdBvjk1JvCwLdrp3fW47Zt1A8Eg1atDwZ3oQQ`
 2. امضای تراکنش و کد محصول (`budget-sheet`) را به **mehdivakili0@gmail.com** ایمیل کنید
@@ -58,7 +58,7 @@ Microsoft Excel, LibreOffice Calc and Google Sheets (import the file into Sheets
 
 **$5** — buy the full version from the store:
 
-https://vakilimehdi.github.io/crypto-pay-page/
+https://digi-market-shop.netlify.app/
 
 1. Pay the exact price in **USDC on Solana** to: `HqxvhpdWdBvjk1JvCwLdrp3fW47Zt1A8Eg1atDwZ3oQQ`
 2. Email the transaction signature and product code (`budget-sheet`) to **mehdivakili0@gmail.com**
